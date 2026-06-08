@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on quantum computation.
 - 🌱 I’m currently learning to use the Qutip&Qiskit.
-- 📫 How to reach me: gable@mail.ustc.edu.cn
+- 📫 How to reach me: zhangbo22@mails.tsinghua.edu.cn
 <!--
 **zbgable/zbgable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
